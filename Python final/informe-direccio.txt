@@ -1,0 +1,20 @@
+INFORME D'INVENTARI TECNOLÒGIC
+========================================
+ID: 1 | Equip: HP | Aula: 1
+Estat: REPARACIO | Incidència: Cap
+----------------------------------------
+ID: 2 | Equip: MSI | Aula: 1
+Estat: OPERATIU | Incidència: Cap
+----------------------------------------
+ID: 3 | Equip: acer | Aula: 1
+Estat: BAIXA | Incidència: Cap
+----------------------------------------
+ID: 4 | Equip: MAC | Aula: 1
+Estat: AVARIAT | Incidència: Cap
+----------------------------------------
+ID: 5 | Equip: msi | Aula: 1
+Estat: REPARACIO | Incidència: Cap
+----------------------------------------
+ID: 6 | Equip: HP | Aula: 2
+Estat: REPARACIO | Incidència: Cap
+----------------------------------------
